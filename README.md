@@ -19,7 +19,12 @@ Internet -> Internet Gateway -> Public Subnet -> EC2
 - Limited inbound traffic via port 80 (HTTP).
 - Manual infrastructure created using AWS console.
 
-## Lessons learned
+## Learning objectives
+- Get to know how to create a basic VPC from scratch
+- Familiarize with Routing tables and subnets in a VPC
+- Attach a Internet Gateway to make public available a subnet
+
+## LL
 - Attach Routing Table to subnet is important to avoid VPC using default Main Table.
 - Security Groups are instance level only.
 - Attach Internet Gateway manually to the VPC is needed as this is not done automatically.
