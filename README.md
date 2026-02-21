@@ -1,8 +1,8 @@
 # AWS Basic VPC + EC2 Public Web Server Connectivity Test
 
 # ==================================
-## In this project I will document the creation of a basic AWS architecture to deploy
-## a static web site in an EC2 instance within a custom VPC.
+## In this project I will document the creation of a basic AWS architecture to deploy \
+   a static web site in an EC2 instance within a custom VPC.
 # ==================================
 
 ## Architecture
